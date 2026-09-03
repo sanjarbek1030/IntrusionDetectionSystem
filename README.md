@@ -25,7 +25,7 @@ Install dependencies:
 bash
 pip install opencv-python ultralytics
 
-▶️ Usage
+## ▶️ Usage
 Place your input video as input_video.mp4 in the project folder.
 
 Run the script:
@@ -34,20 +34,21 @@ bash
 python intrusion_detection.py
 The processed video will be saved as output_video.mp4.
 
-📂 Project Structure
+## 📂 Project Structure
 Code
 ├── intrusion_detection.py   # Main script
 ├── input_video.mp4          # Input video
 ├── output_video.mp4         # Output video (generated)
-🎯 Demo
+
+## 🎯 Demo
 Restricted zone is drawn in blue/green.
 
 Turns red with warning text when a person enters.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 Code
