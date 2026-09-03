@@ -22,7 +22,7 @@ It detects people entering a restricted zone in a video and raises a warning.
 - Ultralytics YOLOv8
 
 Install dependencies:
-```bash
+bash
 pip install opencv-python ultralytics
 
 ▶️ Usage
